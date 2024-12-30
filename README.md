@@ -7,7 +7,13 @@ Repositori ini berisi implementasi Convolutional Neural Networks (CNN) menggunak
 Tujuan dari proyek ini adalah untuk mengembangkan model yang dapat membedakan antara apel dan pisang yang segar dengan yang busuk menggunakan teknik Deep Learning. Kami memanfaatkan arsitektur CNN yang telah dilatih sebelumnya, seperti VGG16, ResNet50, atau InceptionV3, untuk ekstraksi fitur yang efisien dan pelatihan model yang lebih cepat.
 
 ## Struktur Folder
-/ |-- data/ # Dataset gambar |-- models/ # Model CNN yang disimpan |-- scripts/ # Skrip untuk pelatihan dan evaluasi model |-- results/ # Output evaluasi model, termasuk laporan klasifikasi |-- README.md # Dokumentasi proyek
+.
+├── data/                  # Dataset gambar
+├── models/                # Model CNN yang disimpan
+├── scripts/               # Skrip untuk pelatihan dan evaluasi model
+├── results/               # Output evaluasi model, termasuk laporan klasifikasi
+└── README.md              # Dokumentasi proyek
+
 
 ## Persiapan Lingkungan
 
