@@ -18,7 +18,7 @@ Mendeteksi kesegaran buah dan sayuran merupakan tantangan penting dalam industri
 
 ## Algoritma Flowchart
 
-
+![Final_PENMAN2FINAL_Flowchart drawio](https://github.com/user-attachments/assets/5216167d-f7f4-4edb-9f6d-c91dee552360)
 
 ## Persiapan Library
 
